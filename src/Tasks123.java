@@ -6,7 +6,7 @@ public class Tasks123 {
     public static void main(String[] args)throws IOException  {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
-//        Task  1
+//        Task   1
         double perimeter;
         double area;
         System.out.println("Please, enter radius");
